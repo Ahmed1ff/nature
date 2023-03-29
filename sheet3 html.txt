@@ -1,0 +1,70 @@
+    <!DOCTYPE html>
+    <html>
+
+    <head>
+        <title>ahmed farouk</title>
+        <meta charset="utf_8">
+        <link rel="stylesheet" href="sheet3.css">
+    </head>
+
+    <body>
+    <header>
+        <h2 >welcome to the beach</h2>
+        <span>Lorem ipsum dolor sit amet consectetur adipisicing elit.</span> 
+    </header>
+
+    <section>
+    
+        <p class="sh1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum debitis  mollitia quisquam a liquid voluptatem dignissimos suscipit voluptate ,good animi nam ratione quas aspernatur doloremqe,est cupiditate ,commodi architecto?
+            Fugiat?Lorem, ipsum dolor sit amet consectetur adipisicing elit. Earum debitis mollitia quisquam a liquid voluptatem dignissimos suscipit voluptate ,good animi nam ratione quas aspernatur doloremqe,est cupiditate ,commodi
+            architecto?Fugair? Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum debitis  mollitia quisquam a liquid voluptatem dignissimos suscipit voluptate ,good animi nam ratione quas aspernatur doloremqe,est cupiditate,</p>
+
+
+        <p class="sh2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum debitis  mollitia quisquam a liquid voluptatem dignissimos suscipit voluptate ,good animi nam ratione quas aspernatur doloremqe,est cupiditate ,commodi architecto?
+            Fugiat?Lorem, ipsum dolor sit amet consectetur adipisicing elit. Earum debitis mollitia quisquam a liquid voluptatem dignissimos suscipit voluptate ,good animi nam ratione quas aspernatur doloremqe,est cupiditate ,commodi
+            architecto?Fugair? Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum debitis  mollitia quisquam a liquid voluptatem dignissimos suscipit voluptate ,good animi nam ratione quas aspernatur doloremqe,est cupiditate,</p>
+
+
+
+
+    </section>
+    <footer>
+
+        <span id="d1">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit.Ipsa laudantium
+            quo recusandae,nihil illo soluto at vero dignissimos  maiores eos alias
+            doloremque,accusamus,veniam facilis? Veritatis doloribus dolores
+            reiciendis id! 
+
+
+        </span>
+        <span id="d2">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit.Ipsa laudantium
+            quo recusandae,nihil illo soluto at vero dignissimos  maiores eos alias
+            doloremque,accusamus,veniam facilis? Veritatis doloribus dolores
+            reiciendis id! 
+
+
+        </span>
+        <span id="d3">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit.Ipsa laudantium
+            quo recusandae,nihil illo soluto at vero dignissimos  maiores eos alias
+            doloremque,accusamus,veniam facilis? Veritatis doloribus dolores
+            reiciendis id! 
+
+
+        </span>
+    
+    </footer>
+
+    </body>
+    </html>
+
+
+
+
+
+
+
+
+                                                        

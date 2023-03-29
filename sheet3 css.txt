@@ -1,0 +1,63 @@
+*{
+
+
+    padding: 0px;
+    margin: 0px;
+}
+header{
+
+
+    color: #ffc47efa;
+    background-image: url(IMG-20220724-WA0003.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%; 
+    text-align: center;
+    background-position: 100%;
+    width: 1535px;
+    height: 500px;
+    
+    
+
+}
+section p{
+    display :block;
+}
+ section p.sh1{
+
+background-color: #ffc47efa;
+width:1500px;
+padding: 10px;
+padding-left: 25px;
+
+
+
+ }
+ section p.sh2{
+
+    margin: 10px;
+    padding-left: 10px;
+ }
+
+ footer span
+ {
+    display: inline-block;
+    width: 473px;
+height: 88px;
+}
+footer span#d1{
+background-color: #ffc47efa;
+padding-left: 10px;
+padding-top: 10px;
+
+}
+
+footer span#d3{
+background-color: #ffc47efa;
+padding-right: 50px;
+padding-left: 10px;
+padding-top: 10px;
+
+}
+
+
+    
